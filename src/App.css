@@ -73,3 +73,31 @@ h1 {
 .AvServComp  { 
   margin: 10px;
 }
+
+.BannerPText {
+  color: whitesmoke;
+  font-size: 2vh;
+  text-align: center;
+}
+
+.swotitle {
+  font-size: 4vh;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.colors {
+  background-color: whitesmoke;
+}
+
+.carouselPtag {
+  text-align: center;
+  color:rgb(180, 6, 44);
+  font-size: large;
+}
+
+.windows {
+
+  padding-top: 50px;
+}

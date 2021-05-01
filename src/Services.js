@@ -14,9 +14,9 @@ class Services extends Component {
        <div class="col s12 m4">
          <div class="icon-block">
            <h2 class="center brown-text"><i class="material-icons">flash_on</i></h2>
-           <h5 class="center">Super fast Computer Repairs</h5>
+           <h5 class="center">Fast Pc Repairs In San Antonio</h5>
 
-           <p class="light">We've been fixing computers forever. So, our experience allows us to get all repairs done with lighting fast speeds. Not only will we fix the issue in a timely manner, we can also schedule your repair in a timely manner. You won't be waiting two weeks for parts with us!</p>
+           <p class="light">Here at San Antonio Pc Repair, our experience allows us to get all pc repairs done quickly and efficiantly. Not only will we fix the issue in a timely manner, we can also schedule your Pc Repair in a timely manner. You won't be waiting two weeks for parts with us! Also, That's not even the best part, Not only do we do Pc Repair in San Antonio, We also do Pc Repair In and around San Antonio!</p>
          </div>
        </div>
 
@@ -25,16 +25,16 @@ class Services extends Component {
            <h2 class="center brown-text"><i class="material-icons">group</i></h2>
            <h5 class="center">Great Customer Service</h5>
 
-           <p class="light">We understand this process can be confusing or simply irritating. So, we're with you every step of the way, if you have any questions just let us know and we'll do our best to explain everything as simply as possible, you won't get bombarded with technical mumbo jumbo from us. We know you only care about end results.</p>
+           <p class="light">When  you contact San Antonio's Pc Repair, You get more then just a Pc Repair in San Antonio, You also get great customer experience, which if you ask us comes with being in San Antonio! So come on down and get your PC repair! We'll treat you right the way only a PC Repair in San Antonio can do!</p>
          </div>
        </div>
 
        <div class="col s12 m4">
          <div class="icon-block">
            <h2 class="center brown-text"><i class="material-icons">settings</i></h2>
-           <h5 class="center">Simple process</h5>
+           <h5 class="center">Simple Pc Repair process</h5>
 
-           <p class="light">Drop off your laptop,desktop or phone or we can come pick it up, or even repair in house if need be. We're here to make this computer repair an easy experience for you. </p>
+           <p class="light">If you're looking for a Pc Repair in San Antonio, then just Drop off your laptop, desktop or phone with us, or we can come pick it up, or even perform your pc repair in house if need be. We're here to make this pc repair an easy experience for you. </p>
          </div>
        </div>
      </div>

@@ -8,6 +8,8 @@ import Services from  './Services';
 import PcRepair from  './PcRepair';
 import Glass from './Glass';
 import AvailableServices from './AvailableServices';
+import PcRepairServicesWeOffer from './PcRepairServicesWeOffer.js';
+import MoreServices from './MoreServices.js';
 
 function App() {
   return (
@@ -17,6 +19,8 @@ function App() {
   <Services />
   <PcRepair />
   <AvailableServices />
+  <PcRepairServicesWeOffer />
+  <MoreServices />
 
 </div>  
 );

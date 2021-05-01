@@ -4,7 +4,6 @@ import M from 'materialize-css';
 class Banner extends Component {
   render() {
       return (
-
 <div id="VideoGradient">
 
 <div id="videoBannerContainer">
@@ -12,9 +11,12 @@ class Banner extends Component {
 
 <div id="Container"> 
 <h1 id="BannerText" > San Antonio's PC Repair </h1>
+       <p className="BannerPText"> Best Pc Repair In San Antonio</p>
 </div>
 </div>
 </div>
+
+
 
    );
 }

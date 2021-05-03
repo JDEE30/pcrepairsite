@@ -27,7 +27,7 @@ class Prices extends Component {
            <h5 class="center">PC Screeen Repair/Laptop/Desktop</h5>
            <img src="./undraw_image_viewer_wxce.svg" width="250px" height="360px" />
            <p class="light">This Pc Repair in San Antonio :</p>
-           <p Class="greenPrice"> $100.00 - $250</p>
+           <p Class="greenPrice"> $100.00 - $250.00</p>
          </div>
        </div>
 
@@ -36,7 +36,7 @@ class Prices extends Component {
            <h5 class="center">Operating System Upgrades/Hardware Upgrades</h5>
            <img ClassName="windows" src="./undraw_windows_q9m0.svg" width="250px" height="360px"/>
            <p class="light">This Pc Repair in San Antonio :</p>
-           <p Class="greenPrice"> $150.00 Plus Hardware</p>
+           <p Class="greenPrice"> $80.00 Plus Hardware</p>
          </div>
        </div>
 

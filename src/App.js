@@ -13,6 +13,10 @@ import MoreServices from './MoreServices.js';
 import LiveChat from './LiveChat.js';
 import Prices from './Prices.js';
 import Prices2 from './Prices2.js';
+import Devices from './Devices.js';
+import Financing from './Financing.js';
+
+
 
 function App() {
   return (
@@ -28,6 +32,8 @@ function App() {
   <Prices />
   <Prices2 />
   <Devices />
+  <Financing />
+
 
 </div>  
 );

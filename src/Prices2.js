@@ -17,7 +17,7 @@ class Prices2 extends Component {
                     <img src="./storefront colored.svg" width="250px" height="360px" />
          
                     <p class="light">This Pc Repair in San Antonio :</p>
-           <p class="greenPrice"> $50 - $100.00 </p>
+           <p class="greenPrice"> $50.00 - $100.00 </p>
                   </div>
                 </div>
               
@@ -30,7 +30,7 @@ class Prices2 extends Component {
 
          
                     <p class="light">This Pc Repair in San Antonio :</p>
-                    <p class="greenPrice"> $100.00 - $150 Plus Hardware</p>
+                    <p class="greenPrice"> $100.00 - $150.00 Plus Hardware</p>
                  </div>
                 </div>
          
@@ -38,11 +38,11 @@ class Prices2 extends Component {
                 <div class="col s12 m4">
                   <div class="icon-block">
                
-                    <h5 class="center">Repair non-Starting PC's</h5>
+                    <h5 class="center">Repair non-Starting/ slow PC's</h5>
                     <img src="./vision 2 colored .svg" width="250px" height="360px" />
          
                     <p class="light">This Pc Repair in San Antonio :</p>
-                    <p class="greenPrice"> $150.00 Plus Hardware</p>
+                    <p class="greenPrice"> $80.00 Plus Hardware</p>
                  </div>
                 </div>
          

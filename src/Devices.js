@@ -9,14 +9,16 @@ class Devices extends Component {
 
             <div class="container">
             <div class="section">
+            <h2 className="swotitle">What Devices do we repair in San Antonio?</h2>
               <div class="row">
               <div class="col s12 m4">
                   <div class="icon-block">
                   
-                    <h5 class="center">Peripheral Connections</h5>
-                    <img src="./storefront colored.svg" width="250px" height="360px" />
+                    <h5 class="center">Laptops</h5>
+                    <img src="./undraw_working_remotely_jh40.svg" width="250px" height="360px" />
          
-                    <p class="light">Part of doing a Pc Repair In San Antonio, is making sure our customers are able to use all different peripheral connections on their devices. So when we're doing a Pc Repair, we'll make sure your speakers, mouses, keyboards and other devices are connecting to your laptop or desktop. Remember, whether you need a PC Repair in San Antonio , or in a surrounding area, give us a call! </p>
+                    <p class="light">Part of doing a Pc Repair In San Antonio is making sure we cover all different kinds of devices.
+                    So for your convenience, we cover Do pc repairs for Windows, Apple, and Linux Laptops.</p>
                   </div>
                 </div>
               
@@ -24,23 +26,26 @@ class Devices extends Component {
                 <div class="col s12 m4">
                   <div class="icon-block">
                 
-                    <h5 class="center">Phone Repairs</h5>
-                    <img src="./e-commerce colored .svg" width="250px" height="360px" />
+                    <h5 class="center">Desktops</h5>
+                    <img src="./undraw_responsive_6c8s (1).svg" width="250px" height="360px" />
 
-         
-                    <p class="light">One of our greatest pleasures when we're called about doing a Pc Repair In San Antonio, is also doing phone repairs! We work with all different types of devices including android phones and current and previous versions of Iphones. So even if you don't need a PC repair in San Antonio, just remember we also fix Phones!</p>
-                  </div>
+                    <p class="light">Part of doing a Pc Repair In San Antonio is making sure we cover all different kinds of devices.
+                    So for your convenience, we cover Do pc repairs for Windows, Apple, and Linux Desktops.</p>
+
+                   </div>
                 </div>
          
          
                 <div class="col s12 m4">
                   <div class="icon-block">
                
-                    <h5 class="center">Repair non-Starting PC's</h5>
-                    <img src="./vision 2 colored .svg" width="250px" height="360px" />
+                    <h5 class="center">Mobile Devices</h5>
+                    <img src="./undraw_android_jr64.svg" width="250px" height="360px" />
          
-                    <p class="light">So unfortunately, as we're doing a PC Repair in San Antonio, We come accross a few non Starting PC's. Sometimes this means, you may need some new hardware, sometimes we can fix the hardware or software you have, it all depends on the issue. Nonetheless, fixing your non-strating Pc is exactly why we're here! So, if you need a Pc Repair In San Antonio, and your PC just won't boot, give us a call! </p>
-                  </div>
+                    <p class="light">Part of doing a Pc Repair In San Antonio is making sure we cover all different kinds of devices.
+                    So for your convenience, we cover Do pc repairs for Apple, Android and windows mobile devices.</p>
+
+                    </div>
                 </div>
          
 

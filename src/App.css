@@ -91,13 +91,35 @@ h1 {
   background-color: whitesmoke;
 }
 
+.colorsTwo {
+  background-color: rgba(59, 84, 117, 0)
+
+}
+
+.colorsThree {
+  background-color: whitesmoke;
+}
+
+
 .carouselPtag {
   text-align: center;
-  color:rgb(180, 6, 44);
+  color:#ffc5c7;
   font-size: large;
 }
 
 .windows {
 
   padding-top: 50px;
+}
+
+.liveAgentTitle {
+
+  font-size: 4vh;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+ 
+.greenPrice {
+color: s#ee6e73;
 }

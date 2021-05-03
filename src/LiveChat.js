@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import M from 'materialize-css';
 
 
-class PcRepairServicesWeOffer extends Component {
+class LiveChat extends Component {
     render() {
         return (
 
@@ -10,34 +10,35 @@ class PcRepairServicesWeOffer extends Component {
 
 <div class="container">
    <div class="section">
-<h2 className="liveAgentTitle">Want to speak to a live Agent?</h2>
+<h2 className="liveAgentTitle">Want to speak to a <span ClassName="LiveAgentSpan">Live Agent?</span></h2>
      <div class="row">
        <div class="col s12 m4">
          <div class="icon-block">
 
-           <h5 class="center">Virus Removal</h5>
-           <img src="./undraw_Secure_server_re_8wsq.svg" width="250px" height="360px" />
-           <p class="light">In San Antonio, we obviously do a ton of Pc Repairs, but what kind of pc repairs do we do?. We've succesfully removed over 10 thousand viruses in our time Performing our different PC Repair's in San Antonio! We even give you a new antivirus you can use for later to save you some money next time, so hopefully you wont need another PC Repair!
-IF you think you may have a possible Virus and are in the San Antonio area, just give us a call and we'll come do your pc repair and or virus removal.</p>
+           <h5 class="center">Gabriel</h5>
+           <img src="./Andy.png" width="250px" height="260px" />
+           <p class="light">Gabriel is an expert when it comes to Pc Repair in San Antonio. He has years of hands on experience repairing Pc's in the San  Antonio area as well as surrounding areas. He has also worked for many years in customer Service. He has worked in other states doing pc repair as well.
+           Not only is Gabriel business and tech savvy, he is also great with people! Gabriel is also a Jr developer and hopes to become a software Engineer at a large company one day. </p>
          </div>
        </div>
 
        <div class="col s12 m4">
          <div class="icon-block">
-           <h5 class="center">PC Screeen Repair</h5>
-           <img src="./undraw_image_viewer_wxce.svg" width="250px" height="360px" />
-           <p class="light">Screen Repair is a very common PC repair in San Antonio. Screen Repair is such a common PC repair in San Antonio, that we have a dedicated team just for doing this PC repair in San Antonio, We have hundreds of screens available to get started on your PC repair in San Antonio right away! So, if you need a Pc Repair in San Antonio you're at the right place!</p>
+           <h5 class="center">Beth</h5>
+           <img ClassName="windows" src="./Caucasian Female.png" width="250px" height="260px"/>
+           <p class="light">Beth is by far one of our more familiar Pc Repair people in San Antonio. She is one of our most experience Technicians in regards to PC Repair in San Antonio. She has been with San Antonio's ComputerRepair since the begining. 
+           She has worked for many other PC Repair shops before finally stopping her for a permanent role. She is comfortable working with people, answering questions and most of all she is a rock Star Pc Repair Technician.</p>
          </div>
        </div>
 
        <div class="col s12 m4">
          <div class="icon-block">
-           <h5 class="center">Operating System Upgrades</h5>
-           <img ClassName="windows" src="./undraw_windows_q9m0.svg" width="250px" height="360px"/>
-           <p class="light">If you need a Pc Repair in San Antonio, spefically, a Operating System upgrade, then you're at the right PC repair shop!  Every few years all of San Antonio, and the world updates their operating systems, whether that's from windows 7 to windows 8, or windows 8 to windows 10 and beyond we got you covered, because doing PC Repairs in San Antonio is what we're all about!</p>
+           <h5 class="center">Vanessa</h5>
+           <img ClassName="windows" src="./Female Spanish.png" width="250px" height="260px"/>
+           <p class="light">Vanessa loves animals, sports and the great outdoors. When she is not rockclimbing or walking her dogs, she is busy in San Antonio doing PC Repairs, She is always ready to chat with any of our customrs via our online chat option. 
+           Vanessa has years and years of hands on Experience creating websites, repairing Computers and delivering top-notch services of pc repair in San Antonio, as well as in other places.</p>
          </div>
        </div>
-
      
 
      
@@ -53,4 +54,4 @@ IF you think you may have a possible Virus and are in the San Antonio area, just
 }
 }
 
-export default PcRepairServicesWeOffer;
+export default LiveChat;

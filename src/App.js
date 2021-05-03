@@ -10,6 +10,9 @@ import Glass from './Glass';
 import AvailableServices from './AvailableServices';
 import PcRepairServicesWeOffer from './PcRepairServicesWeOffer.js';
 import MoreServices from './MoreServices.js';
+import LiveChat from './LiveChat.js';
+import Prices from './Prices.js';
+import Prices2 from './Prices2.js';
 
 function App() {
   return (
@@ -21,6 +24,10 @@ function App() {
   <AvailableServices />
   <PcRepairServicesWeOffer />
   <MoreServices />
+  <LiveChat />
+  <Prices />
+  <Prices2 />
+  <Devices />
 
 </div>  
 );

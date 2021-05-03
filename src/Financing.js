@@ -17,7 +17,7 @@ class Financing extends Component {
                  
                     <img src="./paypal.png" width="200px" height="200px" />
          
-                    <a class="waves-effect waves-light btn">Finance with Paypal</a>
+                    <a  href="https://paypal.me/SanAntoniosWebDesign?locale.x=en_US" class="waves-effect waves-light btn">Finance with Paypal</a>
                     
            
                   </div>

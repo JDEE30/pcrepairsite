@@ -5,7 +5,7 @@ import M from 'materialize-css';
 class Prices extends Component {
     render() {
         return (
-
+<div id="pricing">
 <div className="colorsTwo">
 
 <div class="container">
@@ -49,7 +49,7 @@ class Prices extends Component {
 
 
 </div>
-
+</div>
 
       );                                                                             
 }

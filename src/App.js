@@ -15,7 +15,8 @@ import Prices from './Prices.js';
 import Prices2 from './Prices2.js';
 import Devices from './Devices.js';
 import Financing from './Financing.js';
-
+import Map from './Map.js';
+import Footer from './Footer.js';
 
 
 function App() {
@@ -33,6 +34,8 @@ function App() {
   <Prices2 />
   <Devices />
   <Financing />
+  <Map />
+  <Footer />
 
 
 </div>  

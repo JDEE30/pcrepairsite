@@ -1,11 +1,12 @@
 import React, { Component } from 'react';
 import M from 'materialize-css';
+import { HashLink } from 'react-router-hash-link';
 
 
 class Services extends Component {
     render() {
         return (
-
+<div id="Services">
 
 <div class="container">
    <div class="section">
@@ -41,7 +42,7 @@ class Services extends Component {
 
    </div>
  </div>
-
+ </div>
       );                                                                             
 }
 }

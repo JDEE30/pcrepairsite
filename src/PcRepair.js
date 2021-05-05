@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import M from 'materialize-css';
+import { HashLink } from 'react-router-hash-link';
 
 class PcRepair extends Component {
     render() {

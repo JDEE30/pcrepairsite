@@ -1,11 +1,12 @@
 import React, { Component } from 'react';
 import M from 'materialize-css';
+import { HashLink } from 'react-router-hash-link';
 
 
 class Prices extends Component {
     render() {
         return (
-<div id="pricing">
+<div id="Prices">
 <div className="colorsTwo">
 
 <div class="container">

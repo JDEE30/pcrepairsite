@@ -17,10 +17,13 @@ import Devices from './Devices.js';
 import Financing from './Financing.js';
 import Map from './Map.js';
 import Footer from './Footer.js';
+import { HashLink } from 'react-router-hash-link';
+import { BrowserRouter } from 'react-router-dom';
 
 
 function App() {
   return (
+
 <div>
   <Nav />
   <Banner />
@@ -39,6 +42,8 @@ function App() {
 
 
 </div>  
+
+
 );
 }
 

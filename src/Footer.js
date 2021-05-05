@@ -25,7 +25,7 @@ class Footer extends Component {
                   <li><a href="#Financing">Financing</a></li>    
        
                  <li>
-                     <a href="tel: 210-762-9415">210 - 762 - 9415</a></li> 
+                     <a href="tel: 210-239-7606‬">Call now!</a></li> 
                 </ul>
               </div>
             </div>

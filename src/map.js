@@ -10,7 +10,7 @@ class Map extends Component {
 </div>
       );                                                                             
 }
-}
+}   
 
 export default Map;
 

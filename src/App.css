@@ -114,3 +114,12 @@ color: s#ee6e73;
   color: #F2AFAF;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+.navcolor {
+
+  background-color: #ee6e73;
+}
+
+#SideNavMenuColor {
+
+  color: white;
+}

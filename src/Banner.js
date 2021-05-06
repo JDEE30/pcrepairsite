@@ -8,7 +8,7 @@ class Banner extends Component {
             <div className="bannerImage">
      
           
-          <img src="./bgBannner.png" width="100%" height="auto" />
+          <img src="./sapcbanner.png" width="100%" height="100%" />
           
 
          </div>

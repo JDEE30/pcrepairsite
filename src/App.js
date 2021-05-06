@@ -15,10 +15,12 @@ import Prices from './Prices.js';
 import Prices2 from './Prices2.js';
 import Devices from './Devices.js';
 import Financing from './Financing.js';
-import Map from './Map.js';
+import Map from './Map.js';  
 import Footer from './Footer.js';
-import { HashLink } from 'react-router-hash-link';
-import { BrowserRouter } from 'react-router-dom';
+import Sidebar from './Sidebar.js';
+
+
+
 
 
 function App() {
@@ -26,9 +28,9 @@ function App() {
 
 <div>
   <Nav />
+  <Sidebar />
   <Banner />
   <Services />
-  <PcRepair />
   <AvailableServices />
   <PcRepairServicesWeOffer />
   <MoreServices />

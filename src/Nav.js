@@ -4,10 +4,7 @@ import { HashLink } from 'react-router-hash-link';
 
 class Nav extends Component {
   render() {
-    document.addEventListener('DOMContentLoaded', function() {
-      var elems = document.querySelectorAll('.sidenav');
-      var instances = M.Sidenav.init(elems);
-    });
+
   
    /* need to find options on materializecss*/
       return (

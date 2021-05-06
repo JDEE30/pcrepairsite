@@ -4,18 +4,15 @@ import M from 'materialize-css';
 class Banner extends Component {
   render() {
       return (
-<div id="VideoGradient">
+       
+            <div className="bannerImage">
+     
+          
+          <img src="./bgBannner.png" width="100%" height="auto" />
+          
 
-<div id="videoBannerContainer">
-<video loop="true" sound="false" autoplay="true"  width="100%" height="100%" src="./Pexels Videos 2818567.mp4" type="video/mp4"></video>
-
-<div id="Container"> 
-<h1 id="BannerText" > San Antonio's PC Repair </h1>
-       <p className="BannerPText"> Best Pc Repair In San Antonio</p>
-</div>
-</div>
-</div>
-
+         </div>
+     
 
 
    );

@@ -20,7 +20,8 @@ import Footer from './Footer.js';
 import Sidebar from './Sidebar.js';
 
 
-
+/* Need to find new host for application to work. Current web host does not support react entirely.
+They may need to upgrade their server to accomodate React Apps.  */
 
 
 function App() {

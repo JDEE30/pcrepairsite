@@ -19,6 +19,8 @@ class Sidebar extends Component {
 
     render() {
         return (
+
+            
             <div className="navcolor">
                 <ul id="slide-out" className="sidenav">
                     <li />
@@ -40,11 +42,15 @@ class Sidebar extends Component {
                     <li><a class="sidenav-close" href="#!">Close SideNav</a></li>
                 </ul>
                 <a href="#" data-target="slide-out" className="sidenav-trigger">
-                    <i id="SideNavColor" className="material-icons">menu</i>
-                </a>
+                    <i id="SideNavColor" className="material-icons">menu</i>     
+                </a> 
             </div>
-        );
+        );  
     }
 }
+
+/*<i id="SideNavColor" className="material-icons">menu</i>  creates hyperlink for side nav */
+/*   <li><a class="sidenav-close" href="#!">Close SideNav</a></li> creates unclckable icon for side nav */
+/* Currently do not work seperately*/
 
 export default Sidebar;

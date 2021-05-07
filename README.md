@@ -1,4 +1,4 @@
-# Getting Started with San Antonio's Computer repair
+# Getting Started with pcrepairsite
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

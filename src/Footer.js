@@ -14,7 +14,7 @@ class Footer extends Component {
                 <p class="grey-text text-lighten-4">San Antonio's Computer Repair is the innovative Leader in Computer Repairs in San Antonio.  We're a fully remote company Located in San Antonio. We can come to you or you can contact us for our address to drop off your device.</p>
               </div>
               <div class="col l4 offset-l2 s12">
-                <h5 class="white-text">Helpfull links</h5>
+                <h5 class="white-text">Helpful links</h5>
                 <ul>
 
  

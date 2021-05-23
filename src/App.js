@@ -17,7 +17,6 @@ import Devices from './Devices.js';
 import Financing from './Financing.js';
 import Map from './Map.js';  
 import Footer from './Footer.js';
-import Sidebar from './Sidebar.js';
 
 
 /* Need to find new host for application to work. Current web host does not support react entirely.
@@ -29,7 +28,6 @@ function App() {
 
 <div>
   <Nav />
-  <Sidebar />
   <Banner />
   <Services />
   <AvailableServices />

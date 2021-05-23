@@ -1,17 +1,45 @@
-import React, { Component } from 'react';
-import M from 'materialize-css';
-import { HashLink } from 'react-router-hash-link';
+
+import React, { Component } from "react";
+import M from "materialize-css/dist/js/materialize.min.js";
+import { BrowserRouter, Route } from "react-router-dom";
+import "materialize-css/dist/css/materialize.min.css";
 
 class Nav extends Component {
-  render() {
+    componentDidMount() {
+        var elem = document.querySelector(".sidenav");
+        var instance = M.Sidenav.init(elem, {
+            edge: "left",
+            inDuration: 350,
+            outDuration: 350,
+            draggable: true
 
-  
-   /* need to find options on materializecss*/
-      return (
+           
+        });
+    }
 
+    render() {
+        return (
         <nav>
-        <div class="nav-wrapper">
-        <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+        <div class="nav-wrapper">    <ul id="slide-out" className="sidenav">
+                <li>
+                        <a href="#Services">Services</a>
+                    </li>
+                    <li>
+                        <a href="#Prices">Prices</a>
+                    </li>
+                   
+                    <li>
+                        <a href="#Financing">Financing</a>
+                    </li>
+                    <li>
+                        <a href="#Map">Contact </a>
+                    </li>
+                    <li><div class="divider"></div></li>
+                    <li><a class="sidenav-close" href="#!">Close SideNav</a></li>
+                </ul>
+                <a href="#" data-target="slide-out"  className="sidenav-trigger material-icons">
+                    <i id="SideNavColor" className="material-icons">menu</i>     
+                </a> 
 
           <ul id="nav-mobile" class="right hide-on-med-and-down">
 

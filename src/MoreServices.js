@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import M from 'materialize-css';
 import { BrowserRouter, Route, Link } from 'react-router-dom';
-import {Button} from 'react-bootstrap';
+import MoreAboutOurServices from './MoreAboutOurServices';
 
 
 
@@ -33,7 +33,7 @@ class MoreServices extends Component {
          
                     <p class="light">One of our greatest pleasures when we're called about doing a Pc Repair In San Antonio, is also doing phone repairs! We work with all different types of devices including android phones and current and previous versions of Iphones. So even if you don't need a PC repair in San Antonio, just remember we also fix Phones!</p>
                   </div>
-                  <Link to="/MoreAboutOurServices">
+                  <Link to="./MoreAboutOurServices" onClick={() => {window.location.href="/MoreAboutOurServices"}} >
      <button className="buttons">
           Learn more
      </button>

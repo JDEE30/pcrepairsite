@@ -17,7 +17,6 @@ import Financing from './Financing.js';
 import Map from './Map.js';  
 import Footer from './Footer.js';
 import MoreAboutOurServices from './MoreAboutOurServices.js';
-import Home from './Home';
 
 
 
@@ -27,17 +26,30 @@ They may need to upgrade their server to accomodate React Apps.  */
 
 function App() {
   return (
-
+<Router>
 <div>
+  <Nav />
+  <Banner />
+  <Services />
+  <AvailableServices />
+  <PcRepairServicesWeOffer />
+  <MoreServices />
+  <LiveChat />
+  <Prices />
+  <Prices2 />
+  <Devices />
+  <Financing />
+  <Map />
+  <Footer />
 
   <Switch>
-  <Route exact path="/" component={Home} />       
-  <Route exact path="/MoreAboutOurServices" component={MoreAboutOurServices} />       
+        
+        <Route exact path="./MoreAboutOurServices" component={MoreAboutOurServices} />       
       </Switch>
 
 
 </div>  
-
+</Router>
 
 
 );

@@ -5,8 +5,6 @@ import Nav from './Nav';
 import Banner from './Banner';
 import Services from  './Services';
 import PcRepair from  './PcRepair';
-import Glass from './Glass';
-import AvailableServices from './AvailableServices';
 import PcRepairServicesWeOffer from './PcRepairServicesWeOffer.js';
 import MoreServices from './MoreServices.js';
 import LiveChat from './LiveChat.js'; 

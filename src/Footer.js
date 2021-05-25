@@ -17,15 +17,15 @@ class Footer extends Component {
                 <h5 class="white-text">Helpful links</h5>
                 <ul>
 
- 
-                  <li><a href="#Services">Services</a></li>    
-               
-                  <li><a href="#Prices">Prices</a></li>    
-                  
-                  <li><a href="#Financing">Financing</a></li>    
-       
-                 <li>
-                     <a href="tel: 210-239-7606‬">Call now!</a></li> 
+ <li>
+ <Link to="./" onClick={() => {window.location.href="/"}} >
+                        Home
+                    </Link>
+                    </li>
+
+                    <Link to="./MoreAboutOurServices" onClick={() => {window.location.href="/MoreAboutOurServices"}} >
+                        MoreAboutOurServices
+                    </Link>
                 </ul>
               </div>
             </div>

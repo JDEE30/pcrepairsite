@@ -1,5 +1,5 @@
 
-import React, { Component } from "react";
+import {React, Component } from "react";
 import M from "materialize-css/dist/js/materialize.min.js";
 import {BrowserRouter as Router, Switch, Route, Link} from "react-router-dom";
 import "materialize-css/dist/css/materialize.min.css";
@@ -53,7 +53,7 @@ class Nav extends Component {
                     </Link>
                     </li>
 <li>
-    <Link to="./MoreAboutOurServices" onClick={() => {window.location.href="/MoreAboutOurServices"}} >
+    <Link to="/MoreAboutOurServices" onClick={() => {window.location.href="/MoreAboutOurServices"}} >
                          Services
                     </Link></li>
                     
